@@ -3,7 +3,7 @@ DefaultOwnerTicket
 
 Set owner to reporter if it's empty.
 
-If using Trac 1.2+, please check https://trac.edgewall.org/ticket/7979#comment:13, which describe how to support this behavior without this plugin.
+For Trac 1.2+ users, please check https://trac.edgewall.org/ticket/7979#comment:13, which describe how to support this behavior without this plugin.
 
 Installation
 ------------
