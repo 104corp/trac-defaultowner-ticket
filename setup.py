@@ -9,7 +9,7 @@
 from setuptools import find_packages, setup
 
 PACKAGE = 'DefaultOwnerTicketPlugin'
-VERSION = '0.2'
+VERSION = '0.3'
 
 try:
     import trac
