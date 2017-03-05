@@ -19,7 +19,7 @@ class DefaultOwnerTicket(Component):
         if 'preview' in req.args:
             return []
 
-        if not ticket['owner']:
+        if not ticket.values.get('owner'):
             ticket['owner'] = ticket['reporter']
 
         return []
